@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep*)",
+      "Bash(find*)",
+      "Bash(cat*)",
+      "Bash(head*)",
+      "Bash(tail*)",
+      "Bash(tree*)",
+      "Bash(ls*)",
+      "Bash(wc*)",
+      "Bash(file*)",
+      "Bash(du*)",
+      "Bash(pwd)",
+      "Bash(which*)",
+      "Bash(echo*)",
+      "Bash(date)",
+      "Bash(whoami)"
+    ]
+  },
+  "model": "claude-3-5-sonnet-20241022"
+}
